@@ -4,6 +4,10 @@ This is the repository of my responsive single-page portfolio showcasing my work
 No installation needed
 ## Usage
 Open the index.html on your preferred browser
+
+## Dev Doc
+https://docs.google.com/document/d/17yMXjTusjODJ4POelqKqUbbHKhEtSngZL51Eu-SlIyo/edit?usp=sharing
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`

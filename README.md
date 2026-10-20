@@ -1,7 +1,7 @@
-# Momonga vs Usagi
+# PORTFOLIO FIP - Adil Yantizhanov
 This is the repository of my responsive single-page portfolio showcasing my work in graphic design and web development, built with HTML, SCSS, JavaScript, GSAP, PHP, and MySQL.
-##Installation
- No installation needed
+## Installation
+No installation needed
 ## Usage
 Open the index.html on your preferred browser
 ## Contributing
